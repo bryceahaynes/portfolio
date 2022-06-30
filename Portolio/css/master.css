@@ -1,0 +1,39 @@
+#title{
+  font-size: 4rem;
+  background-color: #c0b2a4;
+  color: #084575;
+  font-family: 'Antonio', sans-serif;
+}
+.sub-title{
+  font-size: 4rem;
+  background-color:#152642;
+  color: #f3efd5;
+  font-family: 'Antonio', sans-serif;
+}
+
+.bg-light{
+  background-color: #e7d5a7;
+}
+
+.h6{
+  font-size: 4rem;
+  background-color:#152642;
+  color: #f3efd5;
+  font-family: 'Antonio', sans-serif;
+}
+.h3{
+  font-size: 4rem;
+  background-color: #c0b2a4;
+  color: #084575;
+  font-family: 'Antonio', sans-serif;
+}
+
+
+/*COLORS FOR PROJECT:
+#152642
+#084575
+#f3efd5
+white
+#e7d5a7
+#c0b2a4
+*/
